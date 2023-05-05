@@ -1,5 +1,6 @@
-/*File upload with PUSH BOTTOM LINK in peoplecode*/
+>  File upload with PUSH BOTTOM LINK in peoplecode 😶‍🌫️
 
+```PeopleCode
  &ATTACHSYSFILENAME = " ";
 &ATTACHUSERFILE = " ";
 
@@ -13,3 +14,4 @@ If &retcode <> 0 Then
 Else
    RUN_CONTROL_TABLE_NAME.FILENAME.Value = &ATTACHUSERFILE;
 End-If;
+```
