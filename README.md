@@ -1,7 +1,8 @@
 ### PeopleSoft
 In this repository i upload all my activities trying to learn PeopleSoft or whatever what is it.
 
-<img src="https://user-images.githubusercontent.com/72313215/228310719-050fae75-fbca-424d-8e1a-f0ece06cb404.png" width="100" height="100" />
+ <img src="https://user-images.githubusercontent.com/72313215/228310719-050fae75-fbca-424d-8e1a-f0ece06cb404.png" width="100" height="100" /> <img src = "https://cdn.worldvectorlogo.com/logos/people-soft.svg" width="100" height="100" />
+
 1. Im not a expert in PeopleSoft and maybe some of my activities are very ugly(in the programming aspect👩‍💻), so if something are very bad please tell me or tweet me something funny.
 
 2. ***Key Concepts***
